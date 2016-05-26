@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1464271524 source:/home/zsd/桌面/fifo/read.cpp
+	<stdio.h>
+	<stdlib.h>
+	<unistd.h>
+	<string.h>
+	<sys/types.h>
+	<sys/stat.h>
+	<errno.h>
+	<fcntl.h>
+

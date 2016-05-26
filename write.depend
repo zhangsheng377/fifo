@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1464274062 source:/home/zsd/桌面/fifo/write.cpp
+	<unistd.h>
+	<stdlib.h>
+	<fcntl.h>
+	<limits.h>
+	<sys/types.h>
+	<sys/stat.h>
+	<stdio.h>
+	<string.h>
+	<iostream>
+
